@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502)](https://solved.ac/[백준ID]/)
 
- <img src="http://mazandi.herokuapp.com/api?handle=&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle={gusehd502}&theme=warm"/>
