@@ -1,12 +1,4 @@
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
-<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
-  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
-  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
-  <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 width="280" height="140" alt="baekjoon" />
-    <img src=http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm width="285" height="140" alt="solved" />
-  </div>
-  
+
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
     <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div "><img
@@ -92,3 +84,12 @@
   </div>
   
 </div>
+
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="1">
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 width="280" height="140" alt="baekjoon" />
+    <img src=http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm width="285" height="140" alt="solved" />
+  </div>
