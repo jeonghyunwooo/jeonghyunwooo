@@ -34,7 +34,8 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white
           alt=""
-        /> <img
+        /><br>
+          <img
           key=710525.6725054102
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white
