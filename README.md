@@ -40,7 +40,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
           alt=""
-        /> <img
+        /><br> <img
           key=216390.19440384523
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white
