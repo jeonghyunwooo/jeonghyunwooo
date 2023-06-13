@@ -86,7 +86,6 @@
   </div> -->
   
   <div key="1">
-    <p>asd</p>
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm width="285" height="140" alt="solved" />
   </div>
