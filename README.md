@@ -90,4 +90,9 @@
     <img src=http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm width="285" height="140" alt="solved" />
   </div>
   
+  <div key="2">
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd3279 width="280" height="140" alt="baekjoon" />
+    <img src=http://mazandi.herokuapp.com/api?handle=gusehd3279&theme=warm width="285" height="140" alt="solved" />
+  </div>
+  
 </div>
